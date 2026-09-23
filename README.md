@@ -14,13 +14,13 @@
 
 ### オーディオ用OPAMP回路
 - ![Noriko_MiyazakiさんのAB級アンプレイアウト画面](/opamp_r2r_audio/Noriko_Miyazaki/images/opamp_r2r_ABAMP_Miyazaki.png)
-- ![Noriko_Miyazakiさんの二段差動増幅OPAMPレイアウト画面](/opamp_r2r_audio/Noriko_Miyazaki/images/opamp_r2r_audio_diff_Miyazaki.png)
-- ![Noriko_MiyazakiさんのAB級アンプレイアウト画面](/opamp_r2r_audio/Noriko_Miyazaki/images/opamp_r2r_audio_Miyazaki.png)
+- ![Noriko_Miyazakiさんの二段差動増幅OPAMPレイアウト画面](/opamp_r2r_audio/Noriko_Miyazaki/images/opamp_r2r_diff_Miyazaki.png)
+- ![Noriko_MiyazakiさんのAB級アンプレイアウト画面](/opamp_r2r_audio/Noriko_Miyazaki/images/opamp_r2r_Miyazaki.png)
     - [Noriko_Miyazakiさんのレイアウト置き場](/opamp_r2r_audio/Noriko_Miyazaki//)
 
-- ![TOSHIO_NAKAMURAさんのAB級アンプレイアウト画面](/opamp_r2r_audio/TOSHIO_NAKAMURA/images/opamp_r2r_audio_ABAMP_TOSHIO_NAKAMURA.png)
-- ![TOSHIO_NAKAMURAさんの二段差動増幅OPAMPレイアウト画面](/opamp_r2r_audio/TOSHIO_NAKAMURA/images/opamp_r2r_audio_diff_TOSHIO_NAKAMURA.png)
-- ![TOSHIO_NAKAMURAさんのAB級アンプレイアウト画面](/opamp_r2r_audio/TOSHIO_NAKAMURA/images/opamp_r2r_audio_TOSHIO_NAKAMURA.png)
+- ![TOSHIO_NAKAMURAさんのAB級アンプレイアウト画面](/opamp_r2r_audio/TOSHIO_NAKAMURA/images/opamp_r2r_ABAMP_TOSHIO_NAKAMURA.png)
+- ![TOSHIO_NAKAMURAさんの二段差動増幅OPAMPレイアウト画面](/opamp_r2r_audio/TOSHIO_NAKAMURA/images/opamp_r2r_diff_TOSHIO_NAKAMURA.png)
+- ![TOSHIO_NAKAMURAさんのAB級アンプレイアウト画面](/opamp_r2r_audio/TOSHIO_NAKAMURA/images/opamp_r2r_TOSHIO_NAKAMURA.png)
     - [TOSHIO_NAKAMURAさんのレイアウト置き場](/opamp_r2r_audio/TOSHIO_NAKAMURA//)
 
 
