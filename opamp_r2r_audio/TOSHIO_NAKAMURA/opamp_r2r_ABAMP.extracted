@@ -1,0 +1,117 @@
+* Created by KLayout
+*** My special header ***
+
+* cell opamp_r2r_ABAMP
+* pin AB_N
+* pin AB_P
+* pin CAP_N
+* pin CAP_P
+* pin OUT
+* pin VDD
+* pin VSS
+.SUBCKT opamp_r2r_ABAMP AB_N AB_P CAP_N CAP_P OUT VDD VSS
+* device instance $1 r180 *1 90.8,0.4 PMOS
+XM$1 VDD AB_P OUT VDD PMOS L=5u W=30u AS=84p AD=45p PS=65.6u PD=33u
+* device instance $2 r180 *1 82.8,0.4 PMOS
+XM$2 OUT AB_P VDD VDD PMOS L=5u W=30u AS=45p AD=45p PS=33u PD=33u
+* device instance $3 r180 *1 74.8,0.4 PMOS
+XM$3 VDD AB_P OUT VDD PMOS L=5u W=30u AS=45p AD=45p PS=33u PD=33u
+* device instance $4 r180 *1 66.8,0.4 PMOS
+XM$4 OUT AB_P VDD VDD PMOS L=5u W=30u AS=45p AD=45p PS=33u PD=33u
+* device instance $5 r180 *1 58.8,0.4 PMOS
+XM$5 VDD AB_P OUT VDD PMOS L=5u W=30u AS=45p AD=45p PS=33u PD=33u
+* device instance $6 r180 *1 50.8,0.4 PMOS
+XM$6 OUT AB_P VDD VDD PMOS L=5u W=30u AS=45p AD=45p PS=33u PD=33u
+* device instance $7 r180 *1 42.8,0.4 PMOS
+XM$7 VDD AB_P OUT VDD PMOS L=5u W=30u AS=45p AD=45p PS=33u PD=33u
+* device instance $8 r180 *1 34.8,0.4 PMOS
+XM$8 OUT AB_P VDD VDD PMOS L=5u W=30u AS=45p AD=45p PS=33u PD=33u
+* device instance $9 r180 *1 26.8,0.4 PMOS
+XM$9 VDD AB_P OUT VDD PMOS L=5u W=30u AS=45p AD=45p PS=33u PD=33u
+* device instance $10 r180 *1 18.8,0.4 PMOS
+XM$10 OUT AB_P VDD VDD PMOS L=5u W=30u AS=45p AD=45p PS=33u PD=33u
+* device instance $11 r180 *1 10.8,0.4 PMOS
+XM$11 VDD AB_P OUT VDD PMOS L=5u W=30u AS=45p AD=45p PS=33u PD=33u
+* device instance $12 r180 *1 2.8,0.4 PMOS
+XM$12 OUT AB_P VDD VDD PMOS L=5u W=30u AS=45p AD=45p PS=33u PD=33u
+* device instance $13 r180 *1 -5.2,0.4 PMOS
+XM$13 VDD AB_P OUT VDD PMOS L=5u W=30u AS=45p AD=45p PS=33u PD=33u
+* device instance $14 r180 *1 -13.2,0.4 PMOS
+XM$14 OUT AB_P VDD VDD PMOS L=5u W=30u AS=45p AD=45p PS=33u PD=33u
+* device instance $15 r180 *1 -21.2,0.4 PMOS
+XM$15 VDD AB_P OUT VDD PMOS L=5u W=30u AS=45p AD=45p PS=33u PD=33u
+* device instance $16 r180 *1 -29.2,0.4 PMOS
+XM$16 OUT AB_P VDD VDD PMOS L=5u W=30u AS=45p AD=45p PS=33u PD=33u
+* device instance $17 r180 *1 -37.2,0.4 PMOS
+XM$17 VDD AB_P OUT VDD PMOS L=5u W=30u AS=45p AD=45p PS=33u PD=33u
+* device instance $18 r180 *1 -45.2,0.4 PMOS
+XM$18 OUT AB_P VDD VDD PMOS L=5u W=30u AS=45p AD=45p PS=33u PD=33u
+* device instance $19 r180 *1 -53.2,0.4 PMOS
+XM$19 VDD AB_P OUT VDD PMOS L=5u W=30u AS=45p AD=45p PS=33u PD=33u
+* device instance $20 r180 *1 -61.2,0.4 PMOS
+XM$20 OUT AB_P VDD VDD PMOS L=5u W=30u AS=45p AD=45p PS=33u PD=33u
+* device instance $21 r180 *1 -69.2,0.4 PMOS
+XM$21 VDD AB_P OUT VDD PMOS L=5u W=30u AS=45p AD=45p PS=33u PD=33u
+* device instance $22 r180 *1 -77.2,0.4 PMOS
+XM$22 OUT AB_P VDD VDD PMOS L=5u W=30u AS=45p AD=45p PS=33u PD=33u
+* device instance $23 r180 *1 -85.2,0.4 PMOS
+XM$23 VDD AB_P OUT VDD PMOS L=5u W=30u AS=45p AD=45p PS=33u PD=33u
+* device instance $24 r180 *1 -93.2,0.4 PMOS
+XM$24 OUT AB_P VDD VDD PMOS L=5u W=30u AS=45p AD=84p PS=33u PD=65.6u
+* device instance $25 r180 *1 91.1,-45.7 NMOS
+XM$25 VSS AB_N OUT VSS NMOS L=5u W=15u AS=42p AD=22.5p PS=35.6u PD=18u
+* device instance $26 r180 *1 83.1,-45.7 NMOS
+XM$26 OUT AB_N VSS VSS NMOS L=5u W=15u AS=22.5p AD=22.5p PS=18u PD=18u
+* device instance $27 r180 *1 75.1,-45.7 NMOS
+XM$27 VSS AB_N OUT VSS NMOS L=5u W=15u AS=22.5p AD=22.5p PS=18u PD=18u
+* device instance $28 r180 *1 67.1,-45.7 NMOS
+XM$28 OUT AB_N VSS VSS NMOS L=5u W=15u AS=22.5p AD=22.5p PS=18u PD=18u
+* device instance $29 r180 *1 59.1,-45.7 NMOS
+XM$29 VSS AB_N OUT VSS NMOS L=5u W=15u AS=22.5p AD=22.5p PS=18u PD=18u
+* device instance $30 r180 *1 51.1,-45.7 NMOS
+XM$30 OUT AB_N VSS VSS NMOS L=5u W=15u AS=22.5p AD=22.5p PS=18u PD=18u
+* device instance $31 r180 *1 43.1,-45.7 NMOS
+XM$31 VSS AB_N OUT VSS NMOS L=5u W=15u AS=22.5p AD=22.5p PS=18u PD=18u
+* device instance $32 r180 *1 35.1,-45.7 NMOS
+XM$32 OUT AB_N VSS VSS NMOS L=5u W=15u AS=22.5p AD=22.5p PS=18u PD=18u
+* device instance $33 r180 *1 27.1,-45.7 NMOS
+XM$33 VSS AB_N OUT VSS NMOS L=5u W=15u AS=22.5p AD=22.5p PS=18u PD=18u
+* device instance $34 r180 *1 19.1,-45.7 NMOS
+XM$34 OUT AB_N VSS VSS NMOS L=5u W=15u AS=22.5p AD=22.5p PS=18u PD=18u
+* device instance $35 r180 *1 11.1,-45.7 NMOS
+XM$35 VSS AB_N OUT VSS NMOS L=5u W=15u AS=22.5p AD=22.5p PS=18u PD=18u
+* device instance $36 r180 *1 3.1,-45.7 NMOS
+XM$36 OUT AB_N VSS VSS NMOS L=5u W=15u AS=22.5p AD=22.5p PS=18u PD=18u
+* device instance $37 r180 *1 -4.9,-45.7 NMOS
+XM$37 VSS AB_N OUT VSS NMOS L=5u W=15u AS=22.5p AD=22.5p PS=18u PD=18u
+* device instance $38 r180 *1 -12.9,-45.7 NMOS
+XM$38 OUT AB_N VSS VSS NMOS L=5u W=15u AS=22.5p AD=22.5p PS=18u PD=18u
+* device instance $39 r180 *1 -20.9,-45.7 NMOS
+XM$39 VSS AB_N OUT VSS NMOS L=5u W=15u AS=22.5p AD=22.5p PS=18u PD=18u
+* device instance $40 r180 *1 -28.9,-45.7 NMOS
+XM$40 OUT AB_N VSS VSS NMOS L=5u W=15u AS=22.5p AD=22.5p PS=18u PD=18u
+* device instance $41 r180 *1 -36.9,-45.7 NMOS
+XM$41 VSS AB_N OUT VSS NMOS L=5u W=15u AS=22.5p AD=22.5p PS=18u PD=18u
+* device instance $42 r180 *1 -44.9,-45.7 NMOS
+XM$42 OUT AB_N VSS VSS NMOS L=5u W=15u AS=22.5p AD=22.5p PS=18u PD=18u
+* device instance $43 r180 *1 -52.9,-45.7 NMOS
+XM$43 VSS AB_N OUT VSS NMOS L=5u W=15u AS=22.5p AD=22.5p PS=18u PD=18u
+* device instance $44 r180 *1 -60.9,-45.7 NMOS
+XM$44 OUT AB_N VSS VSS NMOS L=5u W=15u AS=22.5p AD=22.5p PS=18u PD=18u
+* device instance $45 r180 *1 -68.9,-45.7 NMOS
+XM$45 VSS AB_N OUT VSS NMOS L=5u W=15u AS=22.5p AD=22.5p PS=18u PD=18u
+* device instance $46 r180 *1 -76.9,-45.7 NMOS
+XM$46 OUT AB_N VSS VSS NMOS L=5u W=15u AS=22.5p AD=22.5p PS=18u PD=18u
+* device instance $47 r180 *1 -84.9,-45.7 NMOS
+XM$47 VSS AB_N OUT VSS NMOS L=5u W=15u AS=22.5p AD=22.5p PS=18u PD=18u
+* device instance $48 r180 *1 -92.9,-45.7 NMOS
+XM$48 OUT AB_N VSS VSS NMOS L=5u W=15u AS=22.5p AD=42p PS=18u PD=35.6u
+* device instance $49 r90 *1 -288.2,-71.4 F_CSIO
+XC$49 CAP_N OUT VSS F_CSIO C=3.897816e-12 A=6496.36p P=322.4u X=80.6 Y=80.6 m=1
+* device instance $50 r90 *1 -188.8,-71.4 F_CSIO
+XC$50 CAP_N OUT VSS F_CSIO C=3.897816e-12 A=6496.36p P=322.4u X=80.6 Y=80.6 m=1
+* device instance $51 r90 *1 -188.8,28 F_CSIO
+XC$51 CAP_P OUT VSS F_CSIO C=3.897816e-12 A=6496.36p P=322.4u X=80.6 Y=80.6 m=1
+* device instance $52 r90 *1 -288.2,28 F_CSIO
+XC$52 CAP_P OUT VSS F_CSIO C=3.897816e-12 A=6496.36p P=322.4u X=80.6 Y=80.6 m=1
+.ENDS opamp_r2r_ABAMP
