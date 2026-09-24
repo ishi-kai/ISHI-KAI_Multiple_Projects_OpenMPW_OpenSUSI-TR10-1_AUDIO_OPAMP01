@@ -35,7 +35,7 @@
 [ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1)で実施した回路の一部が相乗りしています。  
 
 ### OPAMP回路
-[ISHI会版OpenMPW OpenSUSI-TR10-1向けの回路やレイアウトを募集！！！](https://ishi-kai.org/openmpw/shuttle/opensusi-tr10/2026/08/31/shuttle_ISHI-Kai_OpenMPW-OpenSUSI-TR10-1_SP.html)に応募された回路とレイアウトです。  
+zawa氏には今年のイチケンさんの新しい回路の設計やレイアウトのレクチャーをしていただいたので、その報酬枠となります。  
 
 - [ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1)
     - [OPAMP回路：zawa](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/opamp/zawa/)

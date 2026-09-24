@@ -1,4 +1,4 @@
-# AUDIO OPAMP Handson by RISE-A DESIGN CHIP 04
+# AUDIO OPAMP Handson by RISE-A DESIGN CHIP 01
 
 [![check](https://github.com/OpenSUSI/TR-1um_MPW_template/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/OpenSUSI/TR-1um_MPW_template/actions/workflows/check.yml)
 
@@ -13,10 +13,15 @@
 
 
 ### オーディオ用OPAMP回路
-- ![仙台高専のChihiroNishimuraさんのAB級アンプレイアウト画面](/opamp_r2r_audio/ChihiroNishimura/images/opamp_r2r_ABAMP_chihiro.png)
-- ![仙台高専のChihiroNishimuraさんの二段差動増幅OPAMPレイアウト画面](/opamp_r2r_audio/ChihiroNishimura/images/opamp_r2r_audio_diff_chihiro.png)
-- ![仙台高専のChihiroNishimuraさんのAB級アンプレイアウト画面](/opamp_r2r_audio/ChihiroNishimura/images/opamp_r2r_audio_chihiro.png)
-    - [仙台高専のChihiroNishimuraさんのレイアウト置き場](/opamp_r2r_audio/ChihiroNishimura//)
+- ![Noriko_MiyazakiさんのAB級アンプレイアウト画面](/opamp_r2r_audio/Noriko_Miyazaki/images/opamp_r2r_ABAMP_Miyazaki.png)
+- ![Noriko_Miyazakiさんの二段差動増幅OPAMPレイアウト画面](/opamp_r2r_audio/Noriko_Miyazaki/images/opamp_r2r_diff_Miyazaki.png)
+- ![Noriko_MiyazakiさんのAB級アンプレイアウト画面](/opamp_r2r_audio/Noriko_Miyazaki/images/opamp_r2r_Miyazaki.png)
+    - [Noriko_Miyazakiさんのレイアウト置き場](/opamp_r2r_audio/Noriko_Miyazaki//)
+
+- ![TOSHIO_NAKAMURAさんのAB級アンプレイアウト画面](/opamp_r2r_audio/TOSHIO_NAKAMURA/images/opamp_r2r_ABAMP_TOSHIO_NAKAMURA.png)
+- ![TOSHIO_NAKAMURAさんの二段差動増幅OPAMPレイアウト画面](/opamp_r2r_audio/TOSHIO_NAKAMURA/images/opamp_r2r_diff_TOSHIO_NAKAMURA.png)
+- ![TOSHIO_NAKAMURAさんのAB級アンプレイアウト画面](/opamp_r2r_audio/TOSHIO_NAKAMURA/images/opamp_r2r_TOSHIO_NAKAMURA.png)
+    - [TOSHIO_NAKAMURAさんのレイアウト置き場](/opamp_r2r_audio/TOSHIO_NAKAMURA//)
 
 
 ### 参考
@@ -29,9 +34,9 @@
 ## ISHI会の回路
 [ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1)で実施した回路の一部が相乗りしています。  
 
-### 555タイマー回路
-[ISHI会版OpenMPW OpenSUSI-TR10-1向けの回路やレイアウトを募集！！！](https://ishi-kai.org/openmpw/shuttle/opensusi-tr10/2026/08/31/shuttle_ISHI-Kai_OpenMPW-OpenSUSI-TR10-1_SP.html)に応募された回路とレイアウトです。  
+### OPAMP回路
+zawa氏には今年のイチケンさんの新しい回路の設計やレイアウトのレクチャーをしていただいたので、その報酬枠となります。  
 
 - [ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1)
-    - [555タイマー回路：sable](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/555timer/makoto645/)
+    - [OPAMP回路：zawa](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/opamp/zawa/)
 
